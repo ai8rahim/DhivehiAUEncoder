@@ -1,14 +1,18 @@
 Dhivehi ASCII to Unicode Encoder
 ================================
 
+This Python script can be used to encode a text file with Dhivehi ASCII content and save as the equivalent Unicode version.
 
 
-About:
-This is a python script to simply encode ASCII text file to the equivalent Dhivehi Unicode file.
+Requirements
+============
+Python version 2.6.6
 
-Usage:
+Usage
+=====
+python dauencode.py
 
 
-Contact:
-Ahmed
+Contact
+=======
 mr.ahmedibrahim@gmail.com
