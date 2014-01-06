@@ -4,8 +4,8 @@ This Python script can be used to encode a text file with Dhivehi ASCII content 
 
 @author: ai8rahim
 @contact: mr.ahmedibrahim@gmail.com
-@copyright:
-@license:
+@copyright: Copyright (c) 2014 Ahmed Ibrahim
+@license: The MIT License (MIT)
 @requires: python version 2.6.6
 @since: 20140106 (do not change)
 @date: 20140106
