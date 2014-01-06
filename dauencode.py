@@ -1,13 +1,17 @@
 #!/usr/bin/python
-#title			:dauencode.py
-#description	:Python script to Encode Dhivehi ASCII to Dhivehi Unicode.
-#author			:ai8rahim
-#date			:20140106
-#version		:0.1
-#usage			:python dauencode.py
-#notes			:
-#python_version	:2.6.6
-#==============================================================================
+"""
+This Python script can be used to encode a text file with Dhivehi ASCII content and save as the equivalent Unicode version.
+
+@author: ai8rahim
+@contact: mr.ahmedibrahim@gmail.com
+@copyright:
+@license:
+@requires: python version 2.6.6
+@since: 20140106 (do not change)
+@date: 20140106
+@version: 0.1
+
+"""
 
 from os.path import exists
 
